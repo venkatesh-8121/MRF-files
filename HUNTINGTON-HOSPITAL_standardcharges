@@ -1,0 +1,220 @@
+{
+    "hospital_name": "Huntington Hospital",
+    "last_updated_on": "2025-11-18",
+    "version": "2.0.0",
+    "hospital_location": [
+        "Huntington Hospital"
+    ],
+    "hospital_address": [
+        "100 W California Blvd, Pasadena, CA 91105"
+    ],
+    "license_information": {
+        "license_number": "930000372",
+        "state": "CA"
+    },
+    "affirmation": {
+        "affirmation": "To the best of its knowledge and belief, the hospital has included all applicable standard charge information in accordance with the requirements of 45 CFR 180.50, and the information encoded is true, accurate, and complete as of the date indicated.",
+        "confirm_affirmation": true
+    },
+    "standard_charge_information": [
+        {
+            "description": "ACYCLOVIR 400 MG PO TABS",
+            "code_information": [
+                {
+                    "code": "250",
+                    "type": "RC"
+                },
+                {
+                    "code": "Z7610",
+                    "type": "HCPCS"
+                },
+                {
+                    "code": "00904579061",
+                    "type": "NDC"
+                }
+            ],
+            "standard_charges": [
+                {
+                    "gross_charge": 517.5,
+                    "discounted_cash": 336.38,
+                    "setting": "outpatient",
+                    "payers_information": [
+                        {
+                            "payer_name": "Blue Cross of California d/b/a Anthem Blue Cross",
+                            "plan_name": "HMO, City of LA, Vivity",
+                            "standard_charge_percentage": 28.18,
+                            "estimated_amount": 112.3,
+                            "methodology": "percent of total billed charges"
+                        }
+                    ]
+                },
+                {
+                    "gross_charge": 517.5,
+                    "discounted_cash": 336.38,
+                    "setting": "outpatient",
+                    "payers_information": [
+                        {
+                            "payer_name": "Blue Cross of California d/b/a Anthem Blue Cross",
+                            "plan_name": "Covered",
+                            "methodology": "percent of total billed charges"
+                        }
+                    ]
+                },
+                {
+                    "gross_charge": 517.5,
+                    "discounted_cash": 336.38,
+                    "setting": "outpatient",
+                    "payers_information": [
+                        {
+                            "payer_name": "Blue Cross of California d/b/a Anthem Blue Cross",
+                            "plan_name": "PPO",
+                            "standard_charge_percentage": 18.62,
+                            "estimated_amount": 77.85,
+                            "methodology": "percent of total billed charges"
+                        }
+                    ]
+                },
+                {
+                    "gross_charge": 517.5,
+                    "discounted_cash": 336.38,
+                    "setting": "outpatient",
+                    "payers_information": [
+                        {
+                            "payer_name": "Blue Cross of California d/b/a Anthem Blue Cross",
+                            "plan_name": "HMO",
+                            "standard_charge_percentage": 18.62,
+                            "estimated_amount": 112.3,
+                            "methodology": "percent of total billed charges"
+                        }
+                    ]
+                },
+                {
+                    "gross_charge": 517.5,
+                    "discounted_cash": 336.38,
+                    "setting": "outpatient",
+                    "payers_information": [
+                        {
+                            "payer_name": "Blue Cross of California d/b/a Anthem Blue Cross",
+                            "plan_name": "HMO, Non-City of LA, Vivity",
+                            "standard_charge_percentage": 33.69,
+                            "estimated_amount": 112.3,
+                            "methodology": "percent of total billed charges"
+                        }
+                    ]
+                },
+                {
+                    "gross_charge": 517.5,
+                    "discounted_cash": 336.38,
+                    "setting": "outpatient",
+                    "payers_information": [
+                        {
+                            "payer_name": "Blue Cross of California d/b/a Anthem Blue Cross",
+                            "plan_name": "Medicare Advantage",
+                            "methodology": "percent of total billed charges"
+                        }
+                    ]
+                }
+            ],
+            "drug_information": {
+                "unit": "100",
+                "type": "UN"
+            }
+        },
+        {
+            "description": "ACYCLOVIR 5 % TP OINT",
+            "code_information": [
+                {
+                    "code": "0250",
+                    "type": "RC"
+                },
+                {
+                    "code": "Z7610",
+                    "type": "HCPCS"
+                },
+                {
+                    "code": "65162083594",
+                    "type": "NDC"
+                }
+            ],
+            "standard_charges": [
+                {
+                    "gross_charge": 209.7,
+                    "discounted_cash": 136.31,
+                    "setting": "inpatient",
+                    "payers_information": [
+                        {
+                            "payer_name": "MultiPlan, Inc.",
+                            "plan_name": "PPO Primary Network",
+                            "methodology": "percent of total billed charges"
+                        }
+                    ]
+                },
+                {
+                    "gross_charge": 209.7,
+                    "discounted_cash": 136.31,
+                    "setting": "inpatient",
+                    "payers_information": [
+                        {
+                            "payer_name": "Affiliated Health Funds",
+                            "plan_name": "PPO",
+                            "methodology": "percent of total billed charges"
+                        }
+                    ]
+                },
+                {
+                    "gross_charge": 209.7,
+                    "discounted_cash": 136.31,
+                    "setting": "inpatient",
+                    "payers_information": [
+                        {
+                            "payer_name": "Capp Care, Inc.",
+                            "plan_name": "Worker's Compensation",
+                            "additional_payer_notes": "Reimbursed as a percentage of applicable State's current Workers' Compensation fee schedule",
+                            "methodology": "fee schedule"
+                        }
+                    ]
+                },
+                {
+                    "gross_charge": 209.7,
+                    "discounted_cash": 136.31,
+                    "setting": "inpatient",
+                    "payers_information": [
+                        {
+                            "payer_name": "Capp Care, Inc.",
+                            "plan_name": "PPO",
+                            "methodology": "percent of total billed charges"
+                        }
+                    ]
+                },
+                {
+                    "gross_charge": 209.7,
+                    "discounted_cash": 136.31,
+                    "setting": "inpatient",
+                    "payers_information": [
+                        {
+                            "payer_name": "MultiPlan, Inc.",
+                            "plan_name": "PPO Comlementary Network",
+                            "methodology": "percent of total billed charges"
+                        }
+                    ]
+                },
+                {
+                    "gross_charge": 209.7,
+                    "discounted_cash": 136.31,
+                    "setting": "inpatient",
+                    "payers_information": [
+                        {
+                            "payer_name": "Health Value Management, Inc. d/b/a ChoiceCare Network",
+                            "plan_name": "PPO",
+                            "additional_payer_notes": "Reimbursement may change after outlier thresholds are exceeded",
+                            "methodology": "percent of total billed charges"
+                        }
+                    ]
+                }
+            ],
+            "drug_information": {
+                "unit": "15",
+                "type": "GR"
+            }
+        },
+}
